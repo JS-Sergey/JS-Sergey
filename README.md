@@ -1,6 +1,6 @@
 ### Hello there!
 ---
-I'm passionate about **Data science** and **Machine learning**. I've completed Skillbox course ✨Data Scientist PRO✨ (link). Also I've a master's degree in management.  
+I'm passionate about **Data science** and **Machine learning**. I've completed Skillbox course ✨Data Scientist PRO✨ ([link][1]). Also I've a master's degree in management.  
 
 I am proficient in:  
 * Collect, clean and preprocess data to train predictive ML models.
@@ -16,3 +16,5 @@ So, I'm kind of a Machine Learning Engineer😄
 - 🔭 Right now I'm improving my skills as a data scientist  
 - 🌱 I’m currently learning TenserFlow and Plotly closely, Also I plan to learn other useful libraries too  
 - 📫 You can reach me by mail: **jangozyansergey@gmail.com** or by Telegram: **@S_J_Moon** 
+
+[1]: https://skillbox.ru/course/profession-data-scientist/ "move to the course"
