@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there!
+---
+I'm passionate about **Data science** and **Machine learning**. I've completed Skillbox course - ✨Data Scientist PRO✨ (link). Also I've a master's degree in management.  
 
-<!--
-**JS-Sergey/JS-Sergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am proficient in:  
+* Collect, clean and preprocess data to train predictive ML models.
+* Conduct EDA and Feature engineering to understand the nature of data and improve model quality
+* Train ML models and create pipelines to make them run efficiently
 
-Here are some ideas to get you started:
+My tech stack:  
+* Python, Pandas, Numpy, Scikit-learn, TensorFlow, PyTorch, Keras, PySpark, Airflow, Flask, FastAPI, Seaborn, Matplotlib, Hyperopt, CatBoost,PyCharm  
+* Jupyter Notebook, Visual Studio Code, Git, Bash, Docker, SQL, DBeaver, MS Excel, MS Word, MS PowerPoint, Power BI, Grafana  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So, I'm kind of a Machine Learning Engineer😄
+
+- 🔭 Right now I'm improving my skills as a data scientist  
+- 🌱 I’m currently learning TenserFlow and Plotly closly/ Also I plan to learn other useful libraries too  
+- 📫 You can reach me by mail: **jangozyansergey@gmail.com** or by Telegram: **@S_J_Moon** 
